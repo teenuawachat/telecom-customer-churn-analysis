@@ -25,7 +25,7 @@ Customer churn directly impacts revenue and business growth. This project analyz
 
 ## 📸 Dashboard Preview
 
-![Telecom Customer Churn Dashboard](images/customer_churn_analysis.png)
+![Telecom Customer Churn Dashboard](images/Customer_churn_analysis.png)
 
 ## 📈 Business Recommendations
 - Encourage long-term contracts to improve customer retention.
